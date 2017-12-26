@@ -1,0 +1,5 @@
+= Externalized Configuration - Eclipse Vert.x Booster
+
+IMle-node OpenShift Cluster
+If you have
+$ oc create configmap app-config --fn the link:http://appdev.openshift.io/docs/vertx-runtime.html[Eclipse Vert.x Run
